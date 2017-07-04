@@ -1,0 +1,59 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::61ca:f7e1:b0c3:77ab%15
+   IPv4 Address. . . . . . . . . . . : 16.168.210.238
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : asiapacific.hpqcorp.net
+
+Ethernet adapter Bluetooth Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::9004:9a66:819f:51a9%4
+   IPv4 Address. . . . . . . . . . . : 192.168.1.6
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Tunnel adapter isatap.{1AD609D0-4CEF-4F1C-9771-436017661859}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter isatap.{0DCC7AA6-E988-4777-8EDA-46DD63FAB604}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
