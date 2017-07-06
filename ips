@@ -1,0 +1,119 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : NAIKASHW2
+   Primary Dns Suffix  . . . . . . . : asiapacific.hpqcorp.net
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : asiapacific.hpqcorp.net
+   System Quarantine State . . . . . : Not Restricted
+
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Win32 Adapter OAS
+   Physical Address. . . . . . . . . : 00-FF-DA-E4-42-D4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Juniper Networks Virtual Adapter
+   Physical Address. . . . . . . . . : 02-05-85-7F-EB-80
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::61ca:f7e1:b0c3:77ab%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 16.168.240.116(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 838993285
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1F-17-B6-83-5C-B9-01-B0-BE-36
+   DNS Servers . . . . . . . . . . . : 16.110.135.51
+                                       16.110.135.52
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 42-E2-30-42-64-77
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : asiapacific.hpqcorp.net
+   Description . . . . . . . . . . . : Broadcom BCM4352HMB 802.11ac 2x2 Wi-Fi Adapter #2
+   Physical Address. . . . . . . . . : 40-E2-30-42-64-77
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-B2-BF-FC-10
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Mobile Broadband adapter Mobile broadband 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : HUAWEI Mobile Connect - Network Card #3
+   Physical Address. . . . . . . . . : 0C-5B-8F-27-9A-64
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Juniper Network Connect Virtual Adapter
+   Physical Address. . . . . . . . . : 00-FF-60-F9-D7-B0
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 5C-B9-01-B0-BE-36
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9004:9a66:819f:51a9%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, July 6, 2017 4:01:29 PM
+   Lease Expires . . . . . . . . . . : Friday, July 7, 2017 4:01:28 PM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 83640283
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1F-17-B6-83-5C-B9-01-B0-BE-36
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{1AD609D0-4CEF-4F1C-9771-436017661859}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{0DCC7AA6-E988-4777-8EDA-46DD63FAB604}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #5
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
